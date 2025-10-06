@@ -1,5 +1,21 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.11](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.11)
+
+October 6, 2025
+
+### Additions
+
+- `css.properties.dynamic-range-limit.dynamic-range-limit-mix_values` ([#27983](https://github.com/mdn/browser-compat-data/pull/27983))
+- `css.types.dynamic-range-limit-mix` ([#27983](https://github.com/mdn/browser-compat-data/pull/27983))
+
+### Statistics
+
+- 6 contributors have changed 10 files with 172 additions and 60 deletions in 9 commits ([`v7.1.10...v7.1.11`](https://github.com/mdn/browser-compat-data/compare/v7.1.10...v7.1.11))
+- 17,929 total features
+- 1,199 total contributors
+- 5,434 total stargazers
+
 ## [v7.1.10](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.10)
 
 October 3, 2025
